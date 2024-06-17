@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@600&family=Roboto:wght@100&family=Work+Sans:wght@600&display=swap');
+
+:root {
+    /* colors */
+    --blue: #4455b7;
+    --black: #000000;
+    --white: #FFFFFF;
+}
+
+body {
+    margin: 0 40px;
+    padding: 0;
+    border: var(--blue) solid 1px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.preheader {
+    min-height: 400px;
+    background-image: url("https://cdn.discordapp.com/attachments/526132584644739072/1250900203909808230/IMG_20230724_145410.jpg?ex=66713c59&is=666fead9&hm=a01a0d8afcd88782666ce0d8114927fa2ff8815f136a7191397a7bb7a9384eb1&");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-color: var(--blue);
+    display: flex;
+    justify-content: right;
+}
+
+.preheader__nav {
+    color: var(--white);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    gap: 20px;
+    font-weight: 700;
+    padding: 30px 20px 0;
+    border-left: var(--white) solid 1px;
+}
+
+.header {
+    padding: 0 10px;
+}
+
+.properties{
+    font-size: 22px;
+}
+
+.nav__item{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.links {
+    color: var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.logo {
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.nav {
+    color: var(--black);
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+    font-size: 29px;
+    gap: 20px;
+}
+
+.footer{
+    background-color: var(--blue);
+    color: var(--white);
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 40px;
+}
+
+.button {
+    padding: 2px 4px;
+    border: none;
+    background: none;
+    background-color: var(--white);
+    color: var(--black);
+    border-radius: 3px;
+    min-height: 12px;
+}
+
+.section {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: var(--blue) solid 2px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
