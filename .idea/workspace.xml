@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="312fa051-4aa8-467a-8a8e-12a5ad6399fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/second_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meet-me-page.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="312fa051-4aa8-467a-8a8e-12a5ad6399fe" name="Changes" comment="index.html (abt myself) + second_page.html (abt html, css, js) // h/work for start study block (introducing module)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +43,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected="JavaScript Debug.second_page.html">
@@ -77,8 +73,16 @@
       <option name="presentableId" value="Default" />
       <updated>1718616407694</updated>
       <workItem from="1718616409534" duration="17119000" />
-      <workItem from="1718648212564" duration="4429000" />
+      <workItem from="1718648212564" duration="5092000" />
     </task>
+    <task id="LOCAL-00001" summary="index.html (abt myself) + second_page.html (abt html, css, js) // h/work for start study block (introducing module)">
+      <created>1718652922072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718652922072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="index.html (abt myself) + second_page.html (abt html, css, js) // h/work for start study block (introducing module)" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html (abt myself) + second_page.html (abt html, css, js) // h/work for start study block (introducing module)" />
   </component>
 </project>
